@@ -3,7 +3,7 @@ match_number: 4
 teams:
   BDF:
     disqualified: true
-    flags: 0
+    flags: 1
     robot_moved: false
     zone: 5
   BPV:
