@@ -3,18 +3,18 @@ match_number: 0
 teams:
   BDF:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 3
+    robot_moved: true
     zone: 5
   CLC:
     disqualified: false
     flags: 0
-    robot_moved: false
+    robot_moved: true
     zone: 5
   GRD:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   MRT:
     disqualified: false

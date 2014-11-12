@@ -3,8 +3,8 @@ match_number: 1
 teams:
   BTE:
     disqualified: false
-    flags: 1
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   CCR:
     disqualified: false
@@ -13,8 +13,8 @@ teams:
     zone: 5
   CLY:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 1
+    robot_moved: true
     zone: 5
   KDE:
     disqualified: false

@@ -1,0 +1,23 @@
+arena_id: A
+match_number: 33
+teams:
+  BWS:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  PSC:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  TTN:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  UPP:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5

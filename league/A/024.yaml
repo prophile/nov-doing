@@ -1,0 +1,23 @@
+arena_id: A
+match_number: 24
+teams:
+  JMS:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  KEG:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  LFG:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  WHS:
+    disqualified: false
+    flags: 4
+    robot_moved: true
+    zone: 5

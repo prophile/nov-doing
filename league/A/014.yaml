@@ -3,13 +3,13 @@ match_number: 14
 teams:
   BDF:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 2
+    robot_moved: true
     zone: 5
   HSO:
     disqualified: false
     flags: 0
-    robot_moved: false
+    robot_moved: true
     zone: 5
   LSS:
     disqualified: false
@@ -18,6 +18,6 @@ teams:
     zone: 5
   MCS:
     disqualified: false
-    flags: 2
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5

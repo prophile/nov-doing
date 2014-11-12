@@ -3,12 +3,12 @@ match_number: 1
 teams:
   COR:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   LSS:
     disqualified: false
-    flags: 0
+    flags: 1
     robot_moved: false
     zone: 5
   SPC:
@@ -18,6 +18,6 @@ teams:
     zone: 5
   TBG:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5

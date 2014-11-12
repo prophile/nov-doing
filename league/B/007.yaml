@@ -3,13 +3,13 @@ match_number: 7
 teams:
   CAT:
     disqualified: false
-    flags: 3
+    flags: 4
     robot_moved: true
     zone: 5
   CDU:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 1
+    robot_moved: true
     zone: 5
   KEG:
     disqualified: false
@@ -17,7 +17,7 @@ teams:
     robot_moved: true
     zone: 5
   MAI:
-    disqualified: true
-    flags: 2
-    robot_moved: true
+    disqualified: false
+    flags: 0
+    robot_moved: false
     zone: 5

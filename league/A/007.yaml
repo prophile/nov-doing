@@ -3,21 +3,21 @@ match_number: 7
 teams:
   BGS:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   KES:
     disqualified: false
-    flags: 1
+    flags: 4
     robot_moved: true
     zone: 5
   MFG:
     disqualified: false
     flags: 0
-    robot_moved: true
+    robot_moved: false
     zone: 5
   SRZ:
     disqualified: false
     flags: 0
-    robot_moved: true
+    robot_moved: false
     zone: 5

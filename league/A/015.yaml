@@ -3,17 +3,17 @@ match_number: 15
 teams:
   CAT:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   CCR:
     disqualified: false
-    flags: 4
+    flags: 1
     robot_moved: true
     zone: 5
   GRD:
     disqualified: false
-    flags: 1
+    flags: 0
     robot_moved: true
     zone: 5
   MFG:

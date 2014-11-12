@@ -3,21 +3,21 @@ match_number: 13
 teams:
   CCR:
     disqualified: false
-    flags: 3
+    flags: 4
     robot_moved: true
     zone: 5
   HRS:
-    disqualified: true
+    disqualified: false
     flags: 0
     robot_moved: false
     zone: 5
   KHS:
     disqualified: false
-    flags: 1
+    flags: 0
     robot_moved: true
     zone: 5
   SRZ:
     disqualified: false
-    flags: 3
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5

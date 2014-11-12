@@ -1,0 +1,23 @@
+arena_id: B
+match_number: 23
+teams:
+  BDF:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  CPR:
+    disqualified: false
+    flags: 4
+    robot_moved: true
+    zone: 5
+  HAM:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5
+  MFG:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 5

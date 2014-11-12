@@ -3,21 +3,21 @@ match_number: 6
 teams:
   CHR:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   MCA:
     disqualified: false
-    flags: 3
+    flags: 0
     robot_moved: true
     zone: 5
   QEH:
     disqualified: false
-    flags: 1
+    flags: 0
     robot_moved: false
     zone: 5
   TWG:
     disqualified: false
-    flags: 3
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5

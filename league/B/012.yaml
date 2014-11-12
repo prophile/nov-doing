@@ -8,7 +8,7 @@ teams:
     zone: 5
   QMC:
     disqualified: false
-    flags: 1
+    flags: 3
     robot_moved: true
     zone: 5
   RGS:
@@ -18,6 +18,6 @@ teams:
     zone: 5
   WGS:
     disqualified: false
-    flags: 3
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5

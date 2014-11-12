@@ -3,7 +3,7 @@ match_number: 2
 teams:
   CLC:
     disqualified: false
-    flags: 0
+    flags: 2
     robot_moved: true
     zone: 5
   MCA:
@@ -13,11 +13,11 @@ teams:
     zone: 5
   QEH:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   RHY:
-    disqualified: true
-    flags: 3
+    disqualified: false
+    flags: 2
     robot_moved: true
     zone: 5

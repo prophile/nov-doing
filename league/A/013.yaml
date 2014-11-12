@@ -3,21 +3,21 @@ match_number: 13
 teams:
   BMS:
     disqualified: false
+    flags: 4
+    robot_moved: true
+    zone: 5
+  BWS:
+    disqualified: false
     flags: 0
     robot_moved: false
     zone: 5
-  BWS:
+  HZW:
     disqualified: false
     flags: 4
     robot_moved: true
     zone: 5
-  HZW:
-    disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 5
   KEG:
     disqualified: false
-    flags: 3
+    flags: 1
     robot_moved: true
     zone: 5

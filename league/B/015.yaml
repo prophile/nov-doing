@@ -3,8 +3,8 @@ match_number: 15
 teams:
   BTE:
     disqualified: false
-    flags: 1
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   CRB:
     disqualified: false
@@ -13,8 +13,8 @@ teams:
     zone: 5
   HAM:
     disqualified: false
-    flags: 1
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   SPC:
     disqualified: false

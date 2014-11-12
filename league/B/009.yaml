@@ -3,21 +3,21 @@ match_number: 9
 teams:
   CCR:
     disqualified: false
-    flags: 3
+    flags: 4
     robot_moved: true
     zone: 5
   LFG:
     disqualified: false
     flags: 0
-    robot_moved: true
+    robot_moved: false
     zone: 5
   MRT:
     disqualified: false
-    flags: 1
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   SPC:
     disqualified: false
     flags: 0
-    robot_moved: false
+    robot_moved: true
     zone: 5

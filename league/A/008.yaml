@@ -3,7 +3,7 @@ match_number: 8
 teams:
   BRN:
     disqualified: false
-    flags: 4
+    flags: 0
     robot_moved: true
     zone: 5
   CRB:
@@ -13,11 +13,11 @@ teams:
     zone: 5
   ICE:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   UPP:
     disqualified: false
-    flags: 0
+    flags: 1
     robot_moved: true
     zone: 5

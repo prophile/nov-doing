@@ -3,21 +3,21 @@ match_number: 3
 teams:
   BTE:
     disqualified: false
-    flags: 1
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   CDU:
     disqualified: false
     flags: 0
-    robot_moved: false
+    robot_moved: true
     zone: 5
   CPR:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 3
+    robot_moved: true
     zone: 5
   TWG:
     disqualified: false
-    flags: 4
+    flags: 0
     robot_moved: true
     zone: 5
