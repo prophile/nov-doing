@@ -29,5 +29,130 @@ knockout:
     rounds: 3 # Quarters, semis, and finals
     arenas: [A]
 
-matches: {}
-
+matches:
+  0:
+    A: [GRD, BDF, CLC, MRT]
+    B: [RHY, JMS, MCA, ICE]
+  1:
+    A: [KDE, BTE, CLY, CCR]
+    B: [COR, TBG, SPC, LSS]
+  2:
+    A: [QEH, CLC, RHY, MCA]
+    B: [GRD, KEG, RGS, UPP]
+  3:
+    A: [MRT, COR, SRZ, WHS]
+    B: [CPR, TWG, CDU, BTE]
+  4:
+    A: [BPV, GRD, CAT, BDF]
+    B: [MAI, MCS, BMS, RHY]
+  5:
+    A: [BWS, CHB, PSC, CRB]
+    B: [HAM, WHS, LSS, WGS]
+  6:
+    A: [CPR, HRS, RGS, KHS]
+    B: [MCA, CHR, TWG, QEH]
+  7:
+    A: [MFG, BGS, KES, SRZ]
+    B: [KEG, CDU, MAI, CAT]
+  8:
+    A: [BRN, UPP, ICE, CRB]
+    B: [GRD, TBG, LSS, BMS]
+  9:
+    A: [CPR, CLF, CHB, BRK]
+    B: [CCR, SPC, LFG, MRT]
+  10:
+    A: [RGS, KDE, MFG, PSC]
+    B: [MNK, CLC, CGS, BDF]
+  11:
+    A: [SPC, HAM, CHR, CCR]
+    B: [COR, JMS, COT, LFG]
+  12:
+    A: [CLC, MCA, CLF, KDE]
+    B: [RGS, CLY, WGS, QMC]
+  13:
+    A: [KEG, HZW, BWS, BMS]
+    B: [KHS, HRS, SRZ, CCR]
+  14:
+    A: [BDF, MCS, HSO, LSS]
+    B: [DUL, TTN, COR, KDE]
+  15:
+    A: [CCR, MFG, GRD, CAT]
+    B: [BTE, CRB, HAM, SPC]
+  16:
+    A: [CDU, TBG, BRN, KHS]
+    B: [CHB, BGS, RHY, CHR]
+  17:
+    A: [HAM, LFG, BDF, WHS]
+    B: [GRD, CPR, BMS, TWG]
+  18:
+    A: [UPP, COT, CRB, CLC]
+    B: [QMC, KHS, HRS, CCR]
+  19:
+    A: [WHS, WGS, CDU, MAI]
+    B: [TWG, CPR, BMS, MRT]
+  20:
+    A: [KDE, SPC, LFG, BRN]
+    B: [CHR, TBG, RHY, CLF]
+  21:
+    A: [CCR, ICE, HAM, SWI]
+    B: [PSC, HZW, MCA, BMS]
+  22:
+    A: [MNK, MRT, KHS, COT]
+    B: [BGS, JMS, BRK, CHB]
+  23:
+    A: [CHR, MAI, HZW, LSS]
+    B: [BDF, CPR, MFG, HAM]
+  24:
+    A: [KEG, JMS, WHS, LFG]
+    B: [BTE, BGS, MNK, SPC]
+  25:
+    A: [MRT, SRZ, CRB, CLF]
+    B: [CHB, UPP, TTN, CLC]
+  26:
+    A: [KEG, MCA, BRN, BGS]
+    B: [WHS, KES, KHS, PSC]
+  27:
+    A: [BWS, CGS, QMC, CRB]
+    B: [CLC, HRS, CPR, BMS]
+  28:
+    A: [WHS, WGS, SRZ, ICE]
+    B: [CHB, QEH, RHY, KES]
+  29:
+    A: [HSO, MFG, CAT, KHS]
+    B: [QMC, CLY, TTN, SPC]
+  30:
+    A: [GRD, BPV, TBG, QEH]
+    B: [LFG, PSC, CHB, BRN]
+  31:
+    A: [MRT, BWS, CGS, KHS]
+    B: [KES, LSS, BGS, CAT]
+  32:
+    A: [SRZ, MAI, KEG, DUL]
+    B: [TBG, BRK, QMC, CLF]
+  33:
+    A: [UPP, TTN, PSC, BWS]
+    B: [CAT, CPR, MCA, ICE]
+  34:
+    A: [CHR, CLF, CLY, CDU]
+    B: [KES, MAI, MNK, KEG]
+  35:
+    A: [QEH, BTE, LSS, COR]
+    B: [UPP, CRB, CLC, ICE]
+  36:
+    A: [MAI, RGS, WHS, HRS]
+    B: [BRK, SWI, LFG, SPC]
+  37:
+    A: [MNK, CAT, MRT, MCS]
+    B: [QEH, KEG, RHY, ICE]
+  38:
+    A: [BDF, MFG, JMS, COT]
+    B: [BWS, BRK, BRN, UPP]
+  39:
+    A: [HAM, ICE, LSS, CLC]
+    B: [DUL, MCA, TWG, TBG]
+  40:
+    A: [BMS, MCS, CPR, MAI]
+    B: [CHR, HSO, BTE, UPP]
+  41:
+    A: [CLF, LFG, WHS, WGS]
+    B: [TTN, KHS, MFG, MRT]
