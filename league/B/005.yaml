@@ -2,22 +2,22 @@ arena_id: B
 match_number: 5
 teams:
   HAM:
-    disqualified: false
-    flags: 0
+    disqualified: true
+    flags: 4
     robot_moved: true
-    zone: 0
+    zone: 5
   LSS:
     disqualified: false
     flags: 1
-    robot_moved: true
-    zone: 2
+    robot_moved: false
+    zone: 5
   WGS:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 3
+    flags: 4
+    robot_moved: true
+    zone: 5
   WHS:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 1
+    flags: 4
+    robot_moved: true
+    zone: 5

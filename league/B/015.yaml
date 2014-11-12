@@ -4,20 +4,20 @@ teams:
   BTE:
     disqualified: false
     flags: 0
-    robot_moved: false
-    zone: 0
+    robot_moved: true
+    zone: 5
   CRB:
     disqualified: false
-    flags: 0
+    flags: 4
     robot_moved: true
-    zone: 1
+    zone: 5
   HAM:
     disqualified: false
-    flags: 1
+    flags: 4
     robot_moved: true
-    zone: 2
+    zone: 5
   SPC:
     disqualified: false
     flags: 0
-    robot_moved: true
-    zone: 3
+    robot_moved: false
+    zone: 5

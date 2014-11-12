@@ -2,22 +2,22 @@ arena_id: A
 match_number: 12
 teams:
   CLC:
-    disqualified: true
-    flags: 0
+    disqualified: false
+    flags: 4
     robot_moved: true
-    zone: 0
+    zone: 5
   CLF:
     disqualified: false
     flags: 0
-    robot_moved: true
-    zone: 2
+    robot_moved: false
+    zone: 5
   KDE:
-    disqualified: true
-    flags: 2
-    robot_moved: true
-    zone: 3
-  MCA:
     disqualified: false
     flags: 0
+    robot_moved: false
+    zone: 5
+  MCA:
+    disqualified: false
+    flags: 4
     robot_moved: true
-    zone: 1
+    zone: 5

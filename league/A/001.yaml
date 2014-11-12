@@ -5,19 +5,19 @@ teams:
     disqualified: false
     flags: 0
     robot_moved: false
-    zone: 1
+    zone: 5
   CCR:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 3
+    flags: 4
+    robot_moved: true
+    zone: 5
   CLY:
     disqualified: false
-    flags: 0
+    flags: 4
     robot_moved: true
-    zone: 2
+    zone: 5
   KDE:
     disqualified: false
-    flags: 2
+    flags: 3
     robot_moved: true
-    zone: 0
+    zone: 5

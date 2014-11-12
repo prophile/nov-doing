@@ -3,21 +3,21 @@ match_number: 6
 teams:
   CPR:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 0
+    flags: 2
+    robot_moved: true
+    zone: 5
   HRS:
     disqualified: false
-    flags: 0
-    robot_moved: true
-    zone: 1
+    flags: 1
+    robot_moved: false
+    zone: 5
   KHS:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 3
+    flags: 1
+    robot_moved: true
+    zone: 5
   RGS:
     disqualified: false
     flags: 0
     robot_moved: false
-    zone: 2
+    zone: 5

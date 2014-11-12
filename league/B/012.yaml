@@ -3,21 +3,21 @@ match_number: 12
 teams:
   CLY:
     disqualified: false
-    flags: 0
+    flags: 4
     robot_moved: true
-    zone: 1
+    zone: 5
   QMC:
     disqualified: false
     flags: 0
-    robot_moved: false
-    zone: 3
+    robot_moved: true
+    zone: 5
   RGS:
     disqualified: false
-    flags: 0
-    robot_moved: true
-    zone: 0
+    flags: 1
+    robot_moved: false
+    zone: 5
   WGS:
     disqualified: false
-    flags: 0
-    robot_moved: true
-    zone: 2
+    flags: 1
+    robot_moved: false
+    zone: 5

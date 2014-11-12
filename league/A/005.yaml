@@ -4,20 +4,20 @@ teams:
   BWS:
     disqualified: false
     flags: 0
-    robot_moved: true
-    zone: 0
+    robot_moved: false
+    zone: 5
   CHB:
     disqualified: false
     flags: 0
     robot_moved: false
-    zone: 1
+    zone: 5
   CRB:
     disqualified: false
-    flags: 0
-    robot_moved: true
-    zone: 3
+    flags: 2
+    robot_moved: false
+    zone: 5
   PSC:
     disqualified: false
-    flags: 0
-    robot_moved: false
-    zone: 2
+    flags: 4
+    robot_moved: true
+    zone: 5
