@@ -29,5 +29,5 @@ knockout:
     rounds: 3 # Quarters, semis, and finals
     arenas: [A]
 
-matches: []
+matches: {}
 
