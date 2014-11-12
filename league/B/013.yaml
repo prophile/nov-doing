@@ -7,7 +7,7 @@ teams:
     robot_moved: true
     zone: 5
   HRS:
-    disqualified: false
+    disqualified: true
     flags: 0
     robot_moved: false
     zone: 5
