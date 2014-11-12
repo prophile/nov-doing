@@ -14,8 +14,8 @@ match_periods:
       description: The Doing
 
   knockout:
-    - start_time: 2014-11-12 21:00:00
-      end_time: 2014-11-12 23:00:00
+    - start_time: 2014-11-12 22:00:00
+      end_time: 2014-11-12 23:30:00
       description: The Knockouts
 
 knockout:
