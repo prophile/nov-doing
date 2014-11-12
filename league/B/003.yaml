@@ -1,0 +1,23 @@
+arena_id: B
+match_number: 3
+teams:
+  BTE:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 3
+  CDU:
+    disqualified: false
+    flags: 0
+    robot_moved: true
+    zone: 2
+  CPR:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 0
+  TWG:
+    disqualified: false
+    flags: 1
+    robot_moved: true
+    zone: 1

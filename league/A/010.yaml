@@ -1,0 +1,23 @@
+arena_id: A
+match_number: 10
+teams:
+  KDE:
+    disqualified: false
+    flags: 1
+    robot_moved: true
+    zone: 1
+  MFG:
+    disqualified: false
+    flags: 0
+    robot_moved: true
+    zone: 2
+  PSC:
+    disqualified: false
+    flags: 1
+    robot_moved: true
+    zone: 3
+  RGS:
+    disqualified: false
+    flags: 0
+    robot_moved: true
+    zone: 0

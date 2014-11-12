@@ -1,0 +1,23 @@
+arena_id: B
+match_number: 7
+teams:
+  CAT:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 3
+  CDU:
+    disqualified: false
+    flags: 1
+    robot_moved: false
+    zone: 1
+  KEG:
+    disqualified: false
+    flags: 0
+    robot_moved: true
+    zone: 0
+  MAI:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 2

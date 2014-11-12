@@ -1,0 +1,23 @@
+arena_id: A
+match_number: 13
+teams:
+  BMS:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 3
+  BWS:
+    disqualified: false
+    flags: 0
+    robot_moved: true
+    zone: 2
+  HZW:
+    disqualified: false
+    flags: 2
+    robot_moved: false
+    zone: 1
+  KEG:
+    disqualified: false
+    flags: 2
+    robot_moved: false
+    zone: 0

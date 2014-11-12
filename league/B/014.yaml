@@ -1,0 +1,23 @@
+arena_id: B
+match_number: 14
+teams:
+  COR:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 2
+  DUL:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 0
+  KDE:
+    disqualified: false
+    flags: 1
+    robot_moved: true
+    zone: 3
+  TTN:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 1

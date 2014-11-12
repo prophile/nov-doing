@@ -1,0 +1,23 @@
+arena_id: A
+match_number: 9
+teams:
+  BRK:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 3
+  CHB:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 2
+  CLF:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 1
+  CPR:
+    disqualified: false
+    flags: 0
+    robot_moved: false
+    zone: 0
