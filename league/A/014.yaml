@@ -8,8 +8,8 @@ teams:
     zone: 5
   HSO:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   LSS:
     disqualified: false
@@ -18,6 +18,6 @@ teams:
     zone: 5
   MCS:
     disqualified: false
-    flags: 4
+    flags: 2
     robot_moved: true
     zone: 5

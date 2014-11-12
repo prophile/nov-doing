@@ -3,8 +3,8 @@ match_number: 15
 teams:
   CAT:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   CCR:
     disqualified: false

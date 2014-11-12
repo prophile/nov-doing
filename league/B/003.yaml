@@ -8,16 +8,16 @@ teams:
     zone: 5
   CDU:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   CPR:
     disqualified: false
-    flags: 2
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   TWG:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5

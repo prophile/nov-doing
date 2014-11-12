@@ -3,21 +3,21 @@ match_number: 9
 teams:
   BRK:
     disqualified: false
-    flags: 3
+    flags: 0
     robot_moved: true
     zone: 5
   CHB:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 3
+    robot_moved: true
     zone: 5
   CLF:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 3
+    robot_moved: true
     zone: 5
   CPR:
     disqualified: false
-    flags: 2
+    flags: 4
     robot_moved: true
     zone: 5

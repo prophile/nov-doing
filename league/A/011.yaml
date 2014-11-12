@@ -8,8 +8,8 @@ teams:
     zone: 5
   CHR:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   HAM:
     disqualified: false
@@ -19,5 +19,5 @@ teams:
   SPC:
     disqualified: false
     flags: 0
-    robot_moved: true
+    robot_moved: false
     zone: 5

@@ -2,22 +2,22 @@ arena_id: B
 match_number: 11
 teams:
   COR:
-    disqualified: true
+    disqualified: false
     flags: 0
     robot_moved: false
     zone: 5
   COT:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   JMS:
     disqualified: false
-    flags: 4
+    flags: 1
     robot_moved: true
     zone: 5
   LFG:
     disqualified: false
-    flags: 2
+    flags: 1
     robot_moved: true
     zone: 5

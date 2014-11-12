@@ -3,18 +3,18 @@ match_number: 12
 teams:
   CLC:
     disqualified: false
-    flags: 4
+    flags: 1
     robot_moved: true
     zone: 5
   CLF:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 4
+    robot_moved: true
     zone: 5
   KDE:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 1
+    robot_moved: true
     zone: 5
   MCA:
     disqualified: false

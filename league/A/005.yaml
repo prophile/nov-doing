@@ -3,21 +3,21 @@ match_number: 5
 teams:
   BWS:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 2
+    robot_moved: true
     zone: 5
   CHB:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 2
+    robot_moved: true
     zone: 5
   CRB:
     disqualified: false
-    flags: 2
+    flags: 0
     robot_moved: false
     zone: 5
   PSC:
     disqualified: false
-    flags: 4
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5

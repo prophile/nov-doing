@@ -8,7 +8,7 @@ teams:
     zone: 5
   BWS:
     disqualified: false
-    flags: 3
+    flags: 4
     robot_moved: true
     zone: 5
   HZW:

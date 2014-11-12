@@ -3,13 +3,13 @@ match_number: 2
 teams:
   GRD:
     disqualified: false
-    flags: 3
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   KEG:
     disqualified: false
-    flags: 2
-    robot_moved: true
+    flags: 0
+    robot_moved: false
     zone: 5
   RGS:
     disqualified: false

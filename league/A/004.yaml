@@ -2,14 +2,14 @@ arena_id: A
 match_number: 4
 teams:
   BDF:
-    disqualified: false
+    disqualified: true
     flags: 0
     robot_moved: false
     zone: 5
   BPV:
     disqualified: false
-    flags: 0
-    robot_moved: false
+    flags: 2
+    robot_moved: true
     zone: 5
   CAT:
     disqualified: false
