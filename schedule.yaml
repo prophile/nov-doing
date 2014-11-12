@@ -1,0 +1,33 @@
+match_period_length_seconds: 300
+delays: []
+
+match_periods:
+  league:
+    - start_time: 2014-11-12 15:00:00
+      end_time: 2014-11-12 16:30:00
+      max_end_time: 2014-11-12 16:50:00
+      description: Pre-doing roll
+
+    - start_time: 2014-11-12 17:45:00
+      end_time: 2014-11-12 19:45:00
+      max_end_time: 2014-11-12 20:00:00
+      description: The Doing
+
+  knockout:
+    - start_time: 2014-11-12 21:00:00
+      end_time: 2014-11-12 23:00:00
+      description: The Knockouts
+
+knockout:
+  # Time delay between rounds (seconds)
+  round_spacing: 300 # 5 minutes
+  # Extra delay before the final (for build-up and rotation)
+  final_delay: 300
+
+  # Options for putting last few rounds in one arena
+  single_arena:
+    rounds: 3 # Quarters, semis, and finals
+    arenas: [A]
+
+matches: []
+
